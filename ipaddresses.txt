@@ -1,4 +1,0 @@
-Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
-Approximate round trip times in milli-seconds:
-Reply from 192.168.0.10: bytes=32 time=5ms TTL=255
-Approximate round trip times in milli-seconds:
